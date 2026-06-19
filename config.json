@@ -1,0 +1,23 @@
+{
+    "program": "AcadCombinedPluginsSetup",
+    "version": "V1.0.0",
+    "Author": "Suman Kumar ~BHUTUU",
+    "email": "suman.bhutuu@gmail.com",
+    "github": "https://github.com/BHUTUU/AcadCombinedPluginsSetup",
+    "last_date_of_update": "",
+    "autoupdate": true,
+    "installed_programs": [
+        {
+            "name": "",
+            "version": "",
+            "github_repo": "",
+            "current_installer_script_url": ""
+        },
+        {
+            "name": "",
+            "version": "",
+            "github_repo": "",
+            "current_installer_script_url": ""
+        }
+    ]
+}

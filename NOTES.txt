@@ -1,0 +1,19 @@
+Program List--->
+
+* StreetViewLocate | OpenConfigFolder | ReloadConfig | ResetConfig
+* Forcereverse | CopyLineTypeFromEntity | LTFLY
+* IDL | IDML | FormatConfig | ResetConfig
+* PLBORDER | ARCSEG | SEGS2 | PLINTERSECT | FIXOVERLAPPING
+
+* config.json:
+    * All installed programs with their respective versions
+    * Link to all the programs to respecitve github repo.
+    * Developer Introduction
+    * Version
+    * LAST UPDATED DATE
+    * AUTOUPDATE (VARIABLE)
+* Setup.exe
+* Update.exe
+* CheckForUpdateAvailability
+* Uninstaller.exe
+* Repair.exe
