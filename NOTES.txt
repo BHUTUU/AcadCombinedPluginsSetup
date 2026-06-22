@@ -1,9 +1,10 @@
 Program List--->
 
 * StreetViewLocate | OpenConfigFolder | ReloadConfig | ResetConfig
-* Forcereverse | CopyLineTypeFromEntity | LTFLY
-* IDL | IDML | FormatConfig | ResetConfig
+* Forcereverse | CopyLineTypeFromEntity | ACADMAKELINETYPE
+* IDL | IDML | FormatIDLConfig | FormatIDMLConfig | ResetIDLConfig | ResetIDMLConfig
 * PLBORDER | ARCSEG | SEGS2 | PLINTERSECT | FIXOVERLAPPING
+* ROTATEVIEWPORT | SHEETLAYOUTGENERATOR | PLOTDWG
 
 * config.json:
     * All installed programs with their respective versions
