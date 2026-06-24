@@ -8,9 +8,9 @@
     "autoupdate": true,
     "installed_programs": [
         {
-            "name": "",
-            "version": "",
-            "github_repo": "",
+            "name": "StreetViewLocate",
+            "version": "V2.0.0",
+            "github_repo": "https://github.com/BHUTUU/streetViewLocate",
             "current_installer_script_url": ""
         },
         {

@@ -4,7 +4,7 @@ Program List--->
 * Forcereverse | CopyLineTypeFromEntity | ACADMAKELINETYPE
 * IDL | IDML | FormatIDLConfig | FormatIDMLConfig | ResetIDLConfig | ResetIDMLConfig
 * PLBORDER | ARCSEG | SEGS2 | PLINTERSECT | FIXOVERLAPPING
-* ROTATEVIEWPORT | SHEETLAYOUTGENERATOR | PLOTDWG
+* ROTATEVIEWPORT
 
 * config.json:
     * All installed programs with their respective versions
